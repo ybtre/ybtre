@@ -20,6 +20,8 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="ybtre's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ybtre&show_icons=true&hide_border=true&count_private=true&theme=gruvbox" />
+
+  <summary>:zap: Most Used Languages</summary>
   <img align="left" alt="ybtre's Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybtre&layout=compact&card_width=300px" />
 
 
