@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning everything I can :) 
 - 🥅 2021 Goals:
--- Release and consistently update an Android Game
--- Contribute more to Open Source projects
--- Find an internship
+  - Release and consistently update an Android Game
+  - Contribute more to Open Source projects
+  - Find an internship
 
 ### Connect with me:
 
