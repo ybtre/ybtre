@@ -1,6 +1,6 @@
 ### Hi there, I'm Ritchie - a Graduate in Computer Games Application Development at Abertay University. [Website] [NewWeb]👋
 
-[NewWeb](https://ybtre.github.io)
+[NewWeb](https://ybtre.github.io)<br />
 [![Website](https://img.shields.io/website?label=devpilgrim.com&style=for-the-badge&url=https%3A%2F%2Fdevpilgrim.com)](https://devpilgrim.com/)
 
 
