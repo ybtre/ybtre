@@ -1,13 +1,13 @@
-### Hi there, I'm Ritchie - a Graduate in Computer Games Application Development at Abertay University. [Website] 👋
+### Hi there, I'm Ritchie - a Graduate in Computer Games Application Development at Abertay University. [Website] [NewWeb]👋
 
+[NewWeb](https://ybtre.github.io)
 [![Website](https://img.shields.io/website?label=devpilgrim.com&style=for-the-badge&url=https%3A%2F%2Fdevpilgrim.com)](https://devpilgrim.com/)
 
 
-- 🌱 I’m currently learning everything I can :) 
+- 🌱 I’m learning everything I can :) 
 
 ### Connect with me:
 
-[<img align="left" alt="devpilgrim.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -25,4 +25,5 @@
 
 
 [Website]: https://devpilgrim.com/
+[NewWeb]: https://ybtre.github.io
 [linkedin]: https://www.linkedin.com/in/hristo-vuchev-699357195/
