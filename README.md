@@ -1,7 +1,6 @@
-### Hi there, I'm Ritchie - a Graduate in Computer Games Application Development at Abertay University. [Website] [NewWeb]👋
+### Hi there, I'm Ritchie - a Graduate in Computer Games Application Development at Abertay University. [Website]👋
 
-[NewWeb](https://ybtre.github.io)<br />
-[![Website](https://img.shields.io/website?label=devpilgrim.com&style=for-the-badge&url=https%3A%2F%2Fdevpilgrim.com)](https://devpilgrim.com/)
+[![Website](https://img.shields.io/website?label=ybtre.github.io&style=for-the-badge&url=https%3A%2F%2Fybtre.github.io)](https://ybtre.github.io/)
 
 
 - 🌱 I’m learning everything I can :) 
@@ -24,6 +23,6 @@
   <img alt="ybtre's Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybtre&layout=compact&card_width=300px" /> -->
 
 
-[Website]: https://devpilgrim.com/
-[NewWeb]: https://ybtre.github.io
+<!-- [Website]: https://devpilgrim.com/ -->
+[Website]: https://ybtre.github.io
 [linkedin]: https://www.linkedin.com/in/hristo-vuchev-699357195/
